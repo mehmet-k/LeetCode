@@ -1,1 +1,1 @@
-https://leetcode.com/problems/concatenation-of-array/submissions/
+https://leetcode.com/problems/concatenation-of-array
